@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{bencoded-record}
-  s.version = "0.0.1a"
+  s.version = "0.0.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 1.2") if s.respond_to? :required_rubygems_version=
   s.authors = ["Victor Zagorski aka shaggyone"]
@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.description = %q{Parses bencoded data. Each dictionary of the parsed data has hexdigest method, that returns the same digest as if you have computed it from original string.}
   s.email = %q{victor@zagorski.ru}
   s.extra_rdoc_files = ["README", "lib/bencoded-record.rb", "lib/bencoded_record/bencoded_record.rb"]
-  s.files = ["Gemfile", "README", "Rakefile", "lib/bencoded-record.rb", "lib/bencoded_record/bencoded_record.rb", "Manifest", "bencoded-record.gemspec"]
+  s.files = ["Gemfile", "Gemfile.lock", "Manifest", "README", "Rakefile", "bencoded-record.gemspec", "lib/bencoded-record.rb", "lib/bencoded_record/bencoded_record.rb"]
   s.homepage = %q{https://shaggyone@github.com/shaggyone/bencoded-record.git}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Bencoded-record", "--main", "README"]
   s.require_paths = ["lib"]
