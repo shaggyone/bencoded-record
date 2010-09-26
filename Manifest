@@ -1,0 +1,6 @@
+Gemfile
+Manifest
+README
+Rakefile
+lib/bencoded-record.rb
+lib/bencoded_record/bencoded_record.rb

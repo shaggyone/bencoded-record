@@ -1,0 +1,14 @@
+GIT
+  remote: git://github.com/shaggyone/ruby-bencode.git
+  revision: 5afe9df5fb8bdaab73c7cfc9cc9a7a2325294c01
+  specs:
+    bencode (0.6.0)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bencode!

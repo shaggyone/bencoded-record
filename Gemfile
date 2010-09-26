@@ -1,1 +1,1 @@
-gem "ruby-bencode", :git => "git://github.com/dasch/ruby-bencode.git"
+gem "bencode", :git => "git://github.com/shaggyone/ruby-bencode.git"
