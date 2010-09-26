@@ -1,0 +1,1 @@
+gem "ruby-bencode", :git => "git://github.com/dasch/ruby-bencode.git"
